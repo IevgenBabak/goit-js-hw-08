@@ -30,3 +30,4 @@ new SimpleLightbox(".gallery a", {
 });
 
 console.log(galleryItems);
+1
